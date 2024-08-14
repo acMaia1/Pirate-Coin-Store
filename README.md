@@ -9,22 +9,35 @@ Welcome to the Pirate Coin Store! Use your hard-earned pirate coins to redeem am
 
 ## Available Rewards
 
-### Gift Cards
-| Reward            | Description                          | Cost (Coins) |
-|-------------------|--------------------------------------|--------------|
-| Amazon Gift Card  | $10 Amazon gift card                 | 1000         |
-| Steam Gift Card   | $10 Steam gift card                  | 1000         |
+### Amazon Gift Card
+![Amazon Gift Card](assets/amazon-gift-card.png)
+- **Description:** $10 Amazon gift card
+- **Cost:** 1000 coins
+- <button onclick="navigator.clipboard.writeText('!redeem Amazon Gift Card')">Copy to Redeem</button>
 
-### Subscriptions
-| Reward                  | Description                         | Cost (Coins) |
-|-------------------------|-------------------------------------|--------------|
-| 1-Month Twitch Sub      | One-month subscription to the channel | 800          |
+### Steam Gift Card
+![Steam Gift Card](assets/steam-gift-card.png)
+- **Description:** $10 Steam gift card
+- **Cost:** 1000 coins
+- <button onclick="navigator.clipboard.writeText('!redeem Steam Gift Card')">Copy to Redeem</button>
 
-### Custom Rewards
-| Reward                  | Description                         | Cost (Coins) |
-|-------------------------|-------------------------------------|--------------|
-| Custom Shoutout         | Personalized shoutout on stream      | 200          |
-| Pirate Name Generator   | Get a unique pirate name             | 100          |
+### 1-Month Twitch Sub
+![Twitch Subscription](assets/twitch-sub.png)
+- **Description:** One-month subscription to the channel
+- **Cost:** 800 coins
+- <button onclick="navigator.clipboard.writeText('!redeem Twitch Sub')">Copy to Redeem</button>
+
+### Custom Shoutout
+![Custom Shoutout](assets/shoutout.png)
+- **Description:** Personalized shoutout on stream
+- **Cost:** 200 coins
+- <button onclick="navigator.clipboard.writeText('!redeem Shoutout')">Copy to Redeem</button>
+
+### Pirate Name Generator
+![Pirate Name](assets/pirate-name.png)
+- **Description:** Get a unique pirate name
+- **Cost:** 100 coins
+- <button onclick="navigator.clipboard.writeText('!redeem Pirate Name')">Copy to Redeem</button>
 
 ## How to Redeem Rewards
 - Use the `!redeem [reward]` command in chat to redeem your coins for rewards.
