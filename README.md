@@ -1,55 +1,43 @@
-# Pirate Coin Store 🏴‍☠️
+# Loja de Moedas Pirata 🏴‍☠️
 
-Welcome to the Pirate Coin Store! Use your hard-earned pirate coins to redeem amazing rewards.
+Bem-vindo à Loja de Moedas Pirata! Usa as moedas pirata que ganhaste com tanto esforço para resgatar recompensas incríveis.
 
-## How to Earn Pirate Coins
-- Watch the stream: Earn 5 coins every 15 minutes.
-- Participate in chat: Earn bonus coins for active engagement.
-- Complete challenges: Earn extra coins during special events.
+## Como Ganhar Moedas Pirata
+- Assiste ao stream: Ganha 5 moedas a cada 15 minutos.
+- Participa no chat: Ganha moedas extra pela tua participação ativa.
+- Completa desafios: Ganha moedas extra durante eventos especiais.
 
-## Available Rewards
+## Recompensas Disponíveis
 
-### Amazon Gift Card
-![Amazon Gift Card](assets/amazon-gift-card.png)
-- **Description:** $10 Amazon gift card
-- **Cost:** 1000 coins
-- **Redeem:**  
-  > `!redeem Amazon Gift Card`
+### Cartão Presente Amazon
+![Cartão Presente Amazon](assets/amazon-gift-card.png)
+- **Descrição:** Cartão presente Amazon de 10€
+- **Custo:** 1000 moedas
+- **Resgatar:**  
+  > `!resgatar Cartão Presente Amazon`
 
-### Steam Gift Card
-![Steam Gift Card](assets/steam-gift-card.png)
-- **Description:** $10 Steam gift card
-- **Cost:** 1000 coins
-- **Redeem:**  
-  > `!redeem Steam Gift Card`
+### Cartão Presente Steam
+![Cartão Presente Steam](assets/steam-gift-card.png)
+- **Descrição:** Cartão presente Steam de 10€
+- **Custo:** 1000 moedas
+- **Resgatar:**  
+  > `!resgatar Cartão Presente Steam`
 
-### 1-Month Twitch Sub
-![Twitch Subscription](assets/twitch-sub.png)
-- **Description:** One-month subscription to the channel
-- **Cost:** 800 coins
-- **Redeem:**  
-  > `!redeem Twitch Sub`
+### Subscrição Twitch de 1 Mês
+![Subscrição Twitch](assets/twitch-sub.png)
+- **Descrição:** Subscrição de um mês no canal
+- **Custo:** 800 moedas
+- **Resgatar:**  
+  > `!resgatar Subscrição Twitch`
 
-### Custom Shoutout
-![Custom Shoutout](assets/shoutout.png)
-- **Description:** Personalized shoutout on stream
-- **Cost:** 200 coins
-- **Redeem:**  
-  > `!redeem Shoutout`
+### Saudação Personalizada
+![Saudação Personalizada](assets/shoutout.png)
+- **Descrição:** Saudação personalizada durante o stream
+- **Custo:** 200 moedas
+- **Resgatar:**  
+  > `!resgatar Saudação`
 
-### Pirate Name Generator
-![Pirate Name](assets/pirate-name.png)
-- **Description:** Get a unique pirate name
-- **Cost:** 100 coins
-- **Redeem:**  
-  > `!redeem Pirate Name`
-
-## How to Redeem Rewards
-- Use the `!redeem [reward]` command in chat to redeem your coins for rewards.
-- Check your coin balance with the `!coins` command.
-
-## Recent Redemptions
-- [Viewer1] redeemed a $10 Amazon Gift Card!
-- [Viewer2] redeemed a 1-Month Twitch Sub!
-
-Stay tuned for more rewards and happy pirating!
+### Gerador de Nome Pirata
+![Nome Pirata](assets/pirate-name.png)
+- **Descrição:** Recebe um nome pirata único
+- **C
