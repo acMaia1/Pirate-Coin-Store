@@ -13,31 +13,36 @@ Welcome to the Pirate Coin Store! Use your hard-earned pirate coins to redeem am
 ![Amazon Gift Card](assets/amazon-gift-card.png)
 - **Description:** $10 Amazon gift card
 - **Cost:** 1000 coins
-- <button onclick="navigator.clipboard.writeText('!redeem Amazon Gift Card')">Copy to Redeem</button>
+- **Redeem:**  
+  > `!redeem Amazon Gift Card`
 
 ### Steam Gift Card
 ![Steam Gift Card](assets/steam-gift-card.png)
 - **Description:** $10 Steam gift card
 - **Cost:** 1000 coins
-- <button onclick="navigator.clipboard.writeText('!redeem Steam Gift Card')">Copy to Redeem</button>
+- **Redeem:**  
+  > `!redeem Steam Gift Card`
 
 ### 1-Month Twitch Sub
 ![Twitch Subscription](assets/twitch-sub.png)
 - **Description:** One-month subscription to the channel
 - **Cost:** 800 coins
-- <button onclick="navigator.clipboard.writeText('!redeem Twitch Sub')">Copy to Redeem</button>
+- **Redeem:**  
+  > `!redeem Twitch Sub`
 
 ### Custom Shoutout
 ![Custom Shoutout](assets/shoutout.png)
 - **Description:** Personalized shoutout on stream
 - **Cost:** 200 coins
-- <button onclick="navigator.clipboard.writeText('!redeem Shoutout')">Copy to Redeem</button>
+- **Redeem:**  
+  > `!redeem Shoutout`
 
 ### Pirate Name Generator
 ![Pirate Name](assets/pirate-name.png)
 - **Description:** Get a unique pirate name
 - **Cost:** 100 coins
-- <button onclick="navigator.clipboard.writeText('!redeem Pirate Name')">Copy to Redeem</button>
+- **Redeem:**  
+  > `!redeem Pirate Name`
 
 ## How to Redeem Rewards
 - Use the `!redeem [reward]` command in chat to redeem your coins for rewards.
